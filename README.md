@@ -1,6 +1,6 @@
 # HELTHCARE SYSTEM BIG DATA ANALYTICS
 
-![shutterstock_400002673-760x475@2x](hhtps:///C:/Users/eriga/Downloads/Sparkcare-commercial-2.jpg)
+![shutterstock_400002673-760x475@2x](https:///C:/Users/eriga/Downloads/Sparkcare-commercial-2.jpg)
 
 ## Requirement
 
